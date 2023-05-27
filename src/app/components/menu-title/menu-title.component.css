@@ -1,0 +1,26 @@
+.menu__title__container{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+ 
+}
+.menu__title__container hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.menu__title__container h1 {
+  color:white ;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 250px;
+  text-align: center;
+  font-weight: bold;
+  -webkit-text-stroke-width: 10px;
+  -webkit-text-stroke-color: #e1a502;
+}
+
+.menu__title__container p{
+  font-size:100px;
+  color:#e1a502;
+}

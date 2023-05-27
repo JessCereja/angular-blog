@@ -1,0 +1,23 @@
+.container__menu-bar{
+  margin:10px;
+}
+
+.container__menu-bar ul{
+  display:flex;
+  justify-content:space-evenly;
+  align-items:center;
+  font-weight:bold;
+
+}
+
+.container__menu-bar ul li{
+  margin-right:10px;
+}
+
+.container__menu-bar ul li a:hover{
+  color: #9b345c;
+}
+
+.container__menu-bar span{
+  color:#e1a502;
+}

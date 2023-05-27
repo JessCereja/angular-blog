@@ -1,0 +1,27 @@
+.container__big-card{
+  width: 500px;
+  height:400px;
+  display:flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 10px;
+
+}
+
+.big-card__pic img{
+ margin:10px;
+ width:100%;
+
+}
+
+.big-card__title a{
+  color:#e1a502;
+  font-weight:bold;
+  font-size:2rem;
+}
+
+.big-card__title a:hover{
+  color:#9b345c;
+}
+
+

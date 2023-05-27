@@ -1,0 +1,33 @@
+.container__small-card {
+  width: 600px;
+  height: 150px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+
+.small-card__pic img {
+  width: 200px;
+  height: 100%;
+}
+
+.small-card__title {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.small-card__title a {
+  font-size: 1rem;
+  color: #e1a502;
+  font-weight: bold;
+}
+
+.small-card__title a:hover {
+  color: #9b345c;
+}
+
+hr{
+  margin-top: 10px;
+}
